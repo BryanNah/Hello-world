@@ -1,2 +1,2 @@
 # Hello-world
-Beginning of the Project
+Hello OmniTech, I like programming. That wats am made of
